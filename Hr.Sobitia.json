@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "657b3fe4d723b79596a96aca"
+  },
+  "timestamp": null,
+  "lenght": null,
+  "srcMac": null,
+  "dstMac": null,
+  "srcIp": null,
+  "dstIp": null,
+  "srcPort": null,
+  "dstPort": null,
+  "payload": null,
+  "signature": null
+}]
