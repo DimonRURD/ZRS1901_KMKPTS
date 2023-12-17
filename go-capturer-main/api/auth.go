@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/mmeow0/go-capturer/models"
+	"github.com/DimonRURD/ZRS1901_KMKPTS/go-capturer/models"
 	log "github.com/sirupsen/logrus"
 )
 
