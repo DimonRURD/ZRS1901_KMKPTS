@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mmeow0/go-capturer/api"
-	"github.com/mmeow0/go-capturer/models"
+	"github.com/DimonRURD/ZRS1901_KMKPTS/go-capturer/api"
+	"github.com/DimonRURD/ZRS1901_KMKPTS/go-capturer/models"
 	log "github.com/sirupsen/logrus"
 )
 
