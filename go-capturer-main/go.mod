@@ -1,4 +1,4 @@
-module github.com/mmeow0/go-capturer
+module github.com/DimonRURD/ZRS1901_KMKPTS/go-capturer
 
 go 1.21.3
 
