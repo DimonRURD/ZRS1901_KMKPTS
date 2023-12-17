@@ -1,3 +1,6 @@
+
+# ZRS1901_KMKPTS
+=======
 ### IDS сенсор на GO
 
 ## Сборка
@@ -25,3 +28,4 @@ go build
 ```bash
 ./go-sensor -i en0 -r test_rules.yar -h localhost:9925
 ```
+
