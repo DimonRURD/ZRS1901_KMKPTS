@@ -1,4 +1,4 @@
-module github.com/mmeow0/go-sensor
+module github.com/DimonRURD/ZRS1901_KMKPTS
 
 go 1.21.3
 

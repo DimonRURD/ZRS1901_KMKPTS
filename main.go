@@ -7,10 +7,10 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/DimonRURD/ZRS1901_KMKPTS/collector"
+	"github.com/DimonRURD/ZRS1901_KMKPTS/models"
+	"github.com/DimonRURD/ZRS1901_KMKPTS/sendData"
 	"github.com/hillu/go-yara/v4"
-	"github.com/mmeow0/go-sensor/collector"
-	"github.com/mmeow0/go-sensor/models"
-	"github.com/mmeow0/go-sensor/sendData"
 	log "github.com/sirupsen/logrus"
 )
 

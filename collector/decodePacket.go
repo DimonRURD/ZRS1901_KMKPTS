@@ -1,9 +1,9 @@
 package collector
 
 import (
+	"github.com/DimonRURD/ZRS1901_KMKPTS/models"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
-	"github.com/mmeow0/go-sensor/models"
 )
 
 func decodePacket(packet gopacket.Packet) models.Packet {
