@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net"
 
-	"github.com/mmeow0/go-sensor/models"
+	"github.com/DimonRURD/ZRS1901_KMKPTS/models"
 	log "github.com/sirupsen/logrus"
 )
 
